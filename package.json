@@ -1,0 +1,24 @@
+{
+  "name": "http-link-add",
+  "version": "0.1.0",
+  "description": "Silly simple way to add HTTP Link formatted links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicola/http-link-add.git"
+  },
+  "keywords": [
+    "http",
+    "link",
+    "headers"
+  ],
+  "author": "Nicola Greco <me@nicola.io> (http://nicolagreco.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicola/http-link-add/issues"
+  },
+  "homepage": "https://github.com/nicola/http-link-add"
+}
